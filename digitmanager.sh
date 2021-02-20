@@ -1,7 +1,7 @@
 #!/bin/sh
 # @Author : Diyar Parwana
-# @Script GitManager - LINUX/UNIX:
-
+# @Script GitManager - LINUX/UNIX
+ 
 git init
 git remote add origin $1
 git add .
